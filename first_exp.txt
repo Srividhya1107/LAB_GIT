@@ -1,3 +1,4 @@
 my first git lab
 name-srividhya
-class-3C
+class and section-3C
+
